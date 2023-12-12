@@ -121,9 +121,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://movierequestfree-a59484e5d0e2.herokuapp.com".format(FQDN)
+    URL = "https://movierequestfree-a59484e5d0e2.herokuapp.com/".format(FQDN)
 else:
-    URL = "https://movierequestfree-a59484e5d0e2.herokuapp.com".format(FQDN)
+    URL = "https://movierequestfree-a59484e5d0e2.herokuapp.com/".format(FQDN)
 
 
 
