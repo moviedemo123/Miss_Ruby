@@ -791,7 +791,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             alerts = ast.literal_eval(alerts)
             alert = alerts[int(i)]
             alert = alert.replace("\\n", "\n").replace("\\t", "\t")
-            await query.answer(alert, show_alert=True)
+            await query.answer(alert, show_alert=False)
     elif "alertmessage" in query.data:
         grp_id = query.message.chat.id
         i = query.data.split(":")[1]
@@ -801,7 +801,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             alerts = ast.literal_eval(alerts)
             alert = alerts[int(i)]
             alert = alert.replace("\\n", "\n").replace("\\t", "\t")
-            await query.answer(alert, show_alert=True)
+            await query.answer(alert, show_alert=False)
         
     if query.data.startswith("file"):
         clicked = query.from_user.id
