@@ -17,7 +17,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Miss_Ruby_Movies_bot>Miss Ruby 🇮🇳</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/kingvj01'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/New123459'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -29,10 +29,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://t.me/funkomovies'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Where is source code? - <a href='https://telegram.me/New123459'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
-Developer - <a href='https://t.me/Razer358'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+Developer - <a href='https://telegram.me/New123459'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
 
 
@@ -50,7 +50,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @New123459
 
     BUTTON_TXT = """ʜᴇʟᴘ: <b>ʙᴜᴛᴛᴏɴꜱ</b>
 - ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴏᴛʜ ᴜʀʟ ᴀɴᴅ ᴀʟᴇʀᴛ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴꜱ.
@@ -85,9 +85,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /disconnect  - <code>ᴅɪꜱᴄᴏɴɴᴇᴄᴛ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
 • /connections - <code>ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</code>"""
 
-    # Don't Remove Credit @VJ_Botz
+    # Don't Remove Credit @New123459
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @New123459
 
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
@@ -681,7 +681,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/KingVj01'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://telegram.me/New123459'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
 
 -Dev 2 <a href='https://t.me/vjbots_bot'>VJ</a>
 
@@ -693,7 +693,7 @@ special Thanks To ❤️ Developers -
 
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @New123459
 
 
     
