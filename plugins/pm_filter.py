@@ -136,12 +136,10 @@ async def next_page(bot, query):
                 InlineKeyboardButton("Sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
             ]
         )
-        btn.insert(0, [[
-                        InlineKeyboardButton('🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀', url="https://telegra.ph/REQUEST-TIPS-07-02")
-                    ],[
-                        InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-                        InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
-                      ]])
+        btn.insert(0, [
+            InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
+            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+        ])
     else:
         btn = []
         btn.insert(0, 
@@ -151,12 +149,10 @@ async def next_page(bot, query):
                 InlineKeyboardButton("Sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
             ]
         )
-        btn.insert(0, [[
-                        InlineKeyboardButton('🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀', url="https://telegra.ph/REQUEST-TIPS-07-02")
-                    ],[
-                        InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-                        InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
-                      ]])
+        btn.insert(0, [
+            InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
+            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+        ])
     try:
         if settings['max_btn']:
             if 0 < offset <= 10:
@@ -369,12 +365,10 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("Sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
             ]
         )
-        btn.insert(0, [[
-                        InlineKeyboardButton('🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀', url="https://telegra.ph/REQUEST-TIPS-07-02")
-                    ],[
-                        InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-                        InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
-                      ]])
+        btn.insert(0, [
+            InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
+            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+        ])
     else:
         btn = []
         btn.insert(0, 
@@ -384,12 +378,10 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("Sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
             ]
         )
-        btn.insert(0, [[
-                        InlineKeyboardButton('🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀', url="https://telegra.ph/REQUEST-TIPS-07-02")
-                    ],[
-                        InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-                        InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
-                      ]])
+        btn.insert(0, [
+            InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
+            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+        ])
 
     if offset != "":
         try:
@@ -552,12 +544,10 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
             ]
             for file in files
         ]
-        btn.insert(0, [[
-                        InlineKeyboardButton('🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀', url="https://telegra.ph/REQUEST-TIPS-07-02")
-                    ],[
-                        InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-                        InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
-                      ]])
+        btn.insert(0, [
+            InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
+            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+        ])
     else:
         btn = []
         btn.insert(0, 
@@ -567,12 +557,10 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("Sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
             ]
         )
-        btn.insert(0, [[
-                        InlineKeyboardButton('🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀', url="https://telegra.ph/REQUEST-TIPS-07-02")
-                    ],[
-                        InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-                        InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
-                      ]])
+        btn.insert(0, [
+            InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
+            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+        ])
         
     offset = 0
 
@@ -2025,12 +2013,10 @@ async def auto_filter(client, msg, spoll=False):
                 InlineKeyboardButton("Sᴇᴀsᴏɴs", callback_data=f"seasons#{key}")
             ]
         )
-        btn.insert(0, [[
-                        InlineKeyboardButton('🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀', url="https://telegra.ph/REQUEST-TIPS-07-02")
-                    ],[
-                        InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-                        InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
-                      ]])
+        btn.insert(0, [
+            InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
+            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+        ])
     else:
         btn = []
         btn.insert(0, 
@@ -2040,12 +2026,10 @@ async def auto_filter(client, msg, spoll=False):
                 InlineKeyboardButton("Sᴇᴀsᴏɴs", callback_data=f"seasons#{key}")
             ]
         )
-        btn.insert(0, [[
-                        InlineKeyboardButton('🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀', url="https://telegra.ph/REQUEST-TIPS-07-02")
-                    ],[
-                        InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-                        InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
-                      ]])
+        btn.insert(0, [
+            InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
+            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+        ])
     if offset != "":
         req = message.from_user.id if message.from_user else 0
         try:
