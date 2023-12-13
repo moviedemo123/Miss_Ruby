@@ -141,7 +141,7 @@ async def next_page(bot, query):
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
         ])
         btn.insert(0, [
-            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://t.me/Vikastime")
+            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://telegra.ph/BUY-P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-12-13")
         ])
     else:
         btn = []
@@ -157,7 +157,7 @@ async def next_page(bot, query):
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
         ])
         btn.insert(0, [
-            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://t.me/Vikastime")
+            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://telegra.ph/BUY-P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-12-13")
         ])
     try:
         if settings['max_btn']:
@@ -376,7 +376,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
         ])
         btn.insert(0, [
-            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://t.me/Vikastime")
+            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://telegra.ph/BUY-P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-12-13")
         ])
     else:
         btn = []
@@ -392,7 +392,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
         ])
         btn.insert(0, [
-            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://t.me/Vikastime")
+            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://telegra.ph/BUY-P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-12-13")
         ])
 
     if offset != "":
@@ -561,7 +561,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
         ])
         btn.insert(0, [
-            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://t.me/Vikastime")
+            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://telegra.ph/BUY-P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-12-13")
         ])
     else:
         btn = []
@@ -577,7 +577,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
         ])
         btn.insert(0, [
-            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://t.me/Vikastime")
+            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://telegra.ph/BUY-P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-12-13")
         ])
         
     offset = 0
@@ -2036,7 +2036,7 @@ async def auto_filter(client, msg, spoll=False):
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
         ])
         btn.insert(0, [
-            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://t.me/Vikastime")
+            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://telegra.ph/BUY-P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-12-13")
         ])
     else:
         btn = []
@@ -2052,7 +2052,7 @@ async def auto_filter(client, msg, spoll=False):
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
         ])
         btn.insert(0, [
-            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://t.me/Vikastime")
+            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://telegra.ph/BUY-P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-12-13")
         ])
     if offset != "":
         req = message.from_user.id if message.from_user else 0
