@@ -216,7 +216,13 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> Size ⚙️: {file_size}</b>"""
+
+• Group - @newmoviedownload1
+
+🔰 Join For Back-up
+@newrelease1234
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
