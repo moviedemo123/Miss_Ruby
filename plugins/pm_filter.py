@@ -721,8 +721,8 @@ async def filter_quality_cb_handler(client: Client, query: CallbackQuery):
         btn.append(
             [InlineKeyboardButton(text="𝐍𝐎 𝐌𝐎𝐑𝐄 𝐏𝐀𝐆𝐄𝐒 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 📕",callback_data="pages")]
         )
-    
-        if not settings["button"]:
+        
+    if not settings["button"]:
         cur_time = datetime.now(pytz.timezone('Asia/Kolkata')).time()
         time_difference = timedelta(hours=cur_time.hour, minutes=cur_time.minute, seconds=(cur_time.second+(cur_time.microsecond/1000000))) - timedelta(hours=curr_time.hour, minutes=curr_time.minute, seconds=(curr_time.second+(curr_time.microsecond/1000000)))
         remaining_seconds = "{:.2f}".format(time_difference.total_seconds())
@@ -738,7 +738,7 @@ async def filter_quality_cb_handler(client: Client, query: CallbackQuery):
             )
         except MessageNotModified:
             pass
-    await query.answer()
+    await query.answer() 
     
 @Client.on_callback_query()
 async def cb_handler(client: Client, query: CallbackQuery):
