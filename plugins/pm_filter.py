@@ -687,6 +687,9 @@ async def filter_quality_cb_handler(client: Client, query: CallbackQuery):
         InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
         InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
         ])
+        btn.insert(0, [
+            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://telegra.ph/BUY-P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-12-13")
+        ])
     else:
         btn = []
         btn.insert(0, 
@@ -699,6 +702,9 @@ async def filter_quality_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
         InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
         InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+        ])
+        btn.insert(0, [
+            InlineKeyboardButton("🎀 Bᴜʏ Pʀɪᴍɪᴜᴍ Fᴏʀ Aᴅs Fʀᴇᴇ 🎀", url="https://telegra.ph/BUY-P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-12-13")
         ])
 
     if offset != "":
